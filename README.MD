@@ -94,7 +94,6 @@ TRC20:
 ## 📽️ Tutorial and Test
 
 <a href="https://www.youtube.com/watch?v=cjWE7DmMFgw"  target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/ulvi04/HamsterKombatSmartBot/main/thumbnail.png" alt="Youtube Video" />
 </a>
 
 ---
